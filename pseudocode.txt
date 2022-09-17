@@ -1,0 +1,94 @@
+def quiz():
+#user inputs 
+
+questions_dict = {"What's your favorite dessert": ["Ice cream", "ice cream 2", ice cream 3, "ice cream 4"]}
+points_dict = {"A":0, "B":0, "C":0, "D": 0}
+character_dict = {"A": "Merida", "B":"Tiana"}
+for question, value of questions_dict.items():
+  print(question)
+  for answer of values:
+    print(answer)
+  user_resp = input("response as a, b, c, or d")
+  points_dict[user_resp]+=1
+
+character_letter = max(points_dict.values())
+print(character_dict[character_letter])
+
+
+class Princess: (OR Dictionary)
+  def ini...
+    name:
+    points = 0
+
+princesses {"name", score}
+def addToPrincess(princesses_Dict, name):
+
+class Question:
+  def ini...
+    wording:str
+    options[("answer word", "princess"), ("answer word", "princess"), ("answer word", "princess"), ("answer word", "princess")]
+
+  def getAnswer() -> [str]:
+
+  def convertAnswerToPrincess(answer:str) -> princessName:str:
+
+
+ID, Question Wording, Answer 1, Princess 1, Answer 2, Princess 2, Answer 3, Princess 3, Answer 4, Princess 4, Answer 5, Princess 5 
+.cvs
+read in to program and creates list of questions.
+
+
+  INTRO CODE:
+print("Hello, what is your name?") 
+name = input("Name: ")
+print("Welcome", name, "to 'What's under that Crown!'. The game that tells you which Disney Princess you are most like." )
+
+print("To play the game just enter the letter corresponding to the answer that represents you best: A, B, C or D.")
+start = input("Are you ready to start? Y for yes, N for no:")
+
+if start == "Y" or "y":
+  print("Okay", name, "let's get started!")
+else: 
+  print ("Okay, bye!")
+
+RETURN CODE:
+#if they say yes: 
+
+
+questions_dict = {{"What's your favorite weekend activity?":["Cooking", "Archery", "Swimming", "Spa Day"]},{"Which animal would you take out for coffee?":["Frog","Bear","Chicken","Chameleon"]}, {"What best describes you?":["Workaholic","Rebellious","Stubborn","Selfless"]}, {"Where would you like to vacation?":["New Orleans","Scotland","California","Fiji"]},{"When I am older, I would like to live in a...":["Large House","Ranch","Apartment","Beach House"]}
+
+points_dict = {"A":0, "B":0, "C":0, "D": 0}
+character_dict = {"A": "Tiana", "B":"Merida", "C":"Moana", "D": "Rapunzel"}
+
+def quiz 
+ #going through the question dict and get user input answer for each question/key in the dict
+- something like:
+for question in questions_dict.items():
+  print(question)
+
+
+
+At the end: 
+- count all the points
+if there is a tie:
+pick a character from the tie randomly
+
+
+
+
+main idea:
+create a dictionary of all the questions and the answers
+create a different dict of the amount of points each questions has
+create a dict of which answer corresponses to which princess 
+
+questions:
+- do we still need to use an excel sheet 
+- is working with dict okay for this 
+- dict are made but how would we start the for loop 
+
+Notes:
+-questions class
+-distributor class from library past assignment
+-Questions into class instead
+
+**Create spreadsheet in effor to read questions class

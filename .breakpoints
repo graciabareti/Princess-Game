@@ -1,0 +1,20 @@
+{
+  "files": {
+    "scoreclick.py": [
+      {
+        "id": "b64325af-2d3d-4c3c-a9f1-77ae4a85f6e7",
+        "line": 10,
+        "version": 799,
+        "index": 251
+      }
+    ],
+    "windows.py": [
+      {
+        "id": "6a6f0427-1a1f-4e34-a461-2a2b042a39f4",
+        "line": 307,
+        "version": 7966,
+        "index": 15282
+      }
+    ]
+  }
+}
